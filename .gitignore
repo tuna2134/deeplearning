@@ -1,4 +1,4 @@
-replt.nix
+replit.nix
 venv
 .replit
 poetry.lock
