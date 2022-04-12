@@ -1,0 +1,823 @@
+{
+    "_type": "Images",
+    "instrumentation": {
+        "_type": "ResponseInstrumentation"
+    },
+    "readLink": "images/search?q=Azure Cognitive Services",
+    "webSearchUrl": "https://www.bing.com/images/search?q=Azure Cognitive Services&FORM=OIIARP",
+    "queryContext": {
+        "originalQuery": "Azure Cognitive Services",
+        "alterationDisplayQuery": "azure cognitive service",
+        "alterationOverrideQuery": "+Azure Cognitive Services",
+        "alterationMethod": "AM_JustChangeIt",
+        "alterationType": "CombinedAlterationsChained"
+    },
+    "totalEstimatedMatches": 1,
+    "nextOffset": 1,
+    "currentOffset": 0,
+    "value": [
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Azure+Cognitive+Services&id=B93675D06CB12127F84AD7E25336B7CC10E31156&simid=608018913857835015",
+            "name": "Microsoft Azure und Microsoft Cloud Deutschland ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.eH7QZerKY5WJmdDHI84S-gAAAA&pid=Api",
+            "datePublished": "2017-09-11T17:32:00.0000000Z",
+            "isFamilyFriendly": true,
+            "creativeCommons": "PublicNoRightsReserved",
+            "contentUrl": "http://images.vogel.de/vogelonline/bdb/1259400/1259443/44.jpg",
+            "hostPageUrl": "http://www.cloudcomputing-insider.de/microsoft-azure-und-microsoft-cloud-deutschland-detailliert-erklaert-a-576217/",
+            "contentSize": "26136 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "www.cloudcomputing-insider.de/microsoft-azure-und-microsoft-cloud-deutschland...",
+            "width": 300,
+            "height": 300,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.pZ3z0upEmxgKOI-I5W0C3g&pid=Api",
+            "hostPageDomainFriendlyName": "cloudcomputing-insider.de",
+            "hostPageDiscoveredDate": "2016-09-01T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 300,
+                "height": 300
+            },
+            "imageInsightsToken": "ccid_eH7QZerK*cp_B6DF1D43B2E4F74D3D07A1BCFEBE574F*mid_B93675D06CB12127F84AD7E25336B7CC10E31156*simid_608018913857835015*thid_OIP.eH7QZerKY5WJmdDHI84S-gAAAA",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 1
+            },
+            "imageId": "B93675D06CB12127F84AD7E25336B7CC10E31156",
+            "accentColor": "083F70"
+        }
+    ],
+    "queryExpansions": [
+        {
+            "text": "Azure Cognitive Services Icon",
+            "displayText": "Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Icon&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Icon%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Icon&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Icon%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cognitive+Services+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Architecture",
+            "displayText": "Architecture",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Architecture&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Architecture%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Architecture&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Architecture%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Cognitive+Services+Architecture&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Web API Logo",
+            "displayText": "Web API Logo",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Web+API+Logo&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Web+API+Logo%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Web+API+Logo&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Web+API+Logo%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cognitive+Services+Web+API+Logo&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Logo",
+            "displayText": "Logo",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Logo&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Logo%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Logo&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Logo%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Cognitive+Services+Logo&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Poster",
+            "displayText": "Poster",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Poster&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Poster%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Poster&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Poster%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cognitive+Services+Poster&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Icon Transparent",
+            "displayText": "Icon Transparent",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Icon+Transparent&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Icon+Transparent%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Icon+Transparent&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Icon+Transparent%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Cognitive+Services+Icon+Transparent&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Microsoft Azure Cognitive Services",
+            "displayText": "Microsoft",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Microsoft+Azure+Cognitive+Services&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Microsoft%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Microsoft+Azure+Cognitive+Services&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Microsoft%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Microsoft+Azure+Cognitive+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Picture Recognition",
+            "displayText": "Recognition",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Picture+Recognition&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Recognition%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Picture+Recognition&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Recognition%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Cognitive+Services+Picture+Recognition&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Cognitive Services Azure Subscription Key",
+            "displayText": "Subscription Key",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Cognitive+Services+Azure+Subscription+Key&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Subscription+Key%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cognitive+Services+Azure+Subscription+Key&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Subscription+Key%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Cognitive+Services+Azure+Subscription+Key&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Ai Cognitive Services",
+            "displayText": "Ai",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Ai+Cognitive+Services&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Ai%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Ai+Cognitive+Services&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Ai%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Ai+Cognitive+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Bing Web Search",
+            "displayText": "Bing Web Search",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Bing+Web+Search&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bing+Web+Search%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Bing+Web+Search&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bing+Web+Search%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Cognitive+Services+Bing+Web+Search&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services 5 Pillars",
+            "displayText": "5 Pillars",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+5+Pillars&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%225+Pillars%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+5+Pillars&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%225+Pillars%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Cognitive+Services+5+Pillars&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Custom Vision",
+            "displayText": "Custom Vision",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Custom+Vision&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Custom+Vision%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Custom+Vision&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Custom+Vision%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Cognitive+Services+Custom+Vision&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Speech to Text",
+            "displayText": "Speech Text",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Speech+to+Text&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Speech+Text%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Speech+to+Text&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Speech+Text%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Cognitive+Services+Speech+to+Text&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Translator",
+            "displayText": "Translator",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Translator&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Translator%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Translator&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Translator%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Cognitive+Services+Translator&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Sentiment Analysis",
+            "displayText": "Sentiment Analysis",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Sentiment+Analysis&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Sentiment+Analysis%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Sentiment+Analysis&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Sentiment+Analysis%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cognitive+Services+Sentiment+Analysis&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Decision Icon",
+            "displayText": "Decision Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Decision+Icon&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Decision+Icon%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Decision+Icon&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Decision+Icon%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cognitive+Services+Decision+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services for Plants",
+            "displayText": "For Plants",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+for+Plants&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22For+Plants%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+for+Plants&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22For+Plants%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Cognitive+Services+for+Plants&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services PPT",
+            "displayText": "PPT",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+PPT&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22PPT%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+PPT&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22PPT%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Cognitive+Services+PPT&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Services Banner",
+            "displayText": "Banner",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Banner&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Banner%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Banner&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Banner%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Cognitive+Services+Banner&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Cognitive Services Azure Docker",
+            "displayText": "Docker",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Cognitive+Services+Azure+Docker&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Docker%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cognitive+Services+Azure+Docker&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Docker%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Cognitive+Services+Azure+Docker&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Service Image Tagging",
+            "displayText": "Tagging",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Service+Image+Tagging&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Tagging%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Service+Image+Tagging&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Tagging%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cognitive+Service+Image+Tagging&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Computer Vision Azure Cognitive Services",
+            "displayText": "Computer Vision",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Computer+Vision+Azure+Cognitive+Services&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Computer+Vision%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Computer+Vision+Azure+Cognitive+Services&tq=%7b%22pq%22%3a%22Azure+Cognitive+Services%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Azure%22%2c%22pv%22%3a%22Azure%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cognitive%22%2c%22pv%22%3a%22Cognitive%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Services%22%2c%22pv%22%3a%22Services%22%2c%22hps%22%3afalse%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Computer+Vision%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Computer+Vision+Azure+Cognitive+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        }
+    ],
+    "pivotSuggestions": [
+        {
+            "pivot": "Azure",
+            "suggestions": []
+        },
+        {
+            "pivot": "Cognitive",
+            "suggestions": []
+        },
+        {
+            "pivot": "Services",
+            "suggestions": []
+        }
+    ],
+    "relatedSearches": [
+        {
+            "text": "Azure Cognitive Services Icon",
+            "displayText": "Azure Cognitive Services Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Services+Icon&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Services+Icon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cognitive+Services+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Services Overview",
+            "displayText": "Azure Services Overview",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Services+Overview&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Services+Overview",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Services+Overview&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure AI Services",
+            "displayText": "Azure AI Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+AI+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+AI+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+AI+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Bot Service",
+            "displayText": "Azure Bot Service",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Bot+Service&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Bot+Service",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Bot+Service&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cognitive Search",
+            "displayText": "Azure Cognitive Search",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cognitive+Search&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cognitive+Search",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Cognitive+Search&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Service Health",
+            "displayText": "Azure Service Health",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Service+Health&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Service+Health",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Service+Health&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Analytics Services",
+            "displayText": "Azure Analytics Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Analytics+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Analytics+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Analytics+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Microsoft Azure Services",
+            "displayText": "Microsoft Azure Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Microsoft+Azure+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Microsoft+Azure+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Microsoft+Azure+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure App Service Architecture",
+            "displayText": "Azure App Service Architecture",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+App+Service+Architecture&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+App+Service+Architecture",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+App+Service+Architecture&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Ml Services",
+            "displayText": "Azure Ml Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Ml+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Ml+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Ml+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Luis",
+            "displayText": "Azure Luis",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Luis&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Luis",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Luis&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure API",
+            "displayText": "Azure API",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+API&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+API",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+API&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Services List",
+            "displayText": "Azure Services List",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Services+List&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Services+List",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Services+List&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Services Logos",
+            "displayText": "Azure Services Logos",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Services+Logos&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Services+Logos",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Services+Logos&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure API Icon",
+            "displayText": "Azure API Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+API+Icon&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+API+Icon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+API+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Computer Vision",
+            "displayText": "Azure Computer Vision",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Computer+Vision&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Computer+Vision",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Computer+Vision&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Synapse",
+            "displayText": "Azure Synapse",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Synapse&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Synapse",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Synapse&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Microsoft Azure Ai",
+            "displayText": "Microsoft Azure Ai",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Microsoft+Azure+Ai&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Microsoft+Azure+Ai",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Microsoft+Azure+Ai&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Text to Speech",
+            "displayText": "Azure Text to Speech",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Text+to+Speech&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Text+to+Speech",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Text+to+Speech&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Web Services",
+            "displayText": "Azure Web Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Web+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Web+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Web+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Data Services",
+            "displayText": "Azure Data Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Data+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Data+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Data+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure API Logo",
+            "displayText": "Azure API Logo",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+API+Logo&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+API+Logo",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+API+Logo&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Function Architecture",
+            "displayText": "Azure Function Architecture",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Function+Architecture&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Function+Architecture",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Function+Architecture&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Compute Services",
+            "displayText": "Azure Compute Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Compute+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Compute+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Compute+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Text Analytics",
+            "displayText": "Azure Text Analytics",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Text+Analytics&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Text+Analytics",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Text+Analytics&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Container Service",
+            "displayText": "Azure Container Service",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Container+Service&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Container+Service",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Container+Service&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure OCR",
+            "displayText": "Azure OCR",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+OCR&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+OCR",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+OCR&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Machine Learning Logo",
+            "displayText": "Azure Machine Learning Logo",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Machine+Learning+Logo&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Machine+Learning+Logo",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Machine+Learning+Logo&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Cloud Services",
+            "displayText": "Azure Cloud Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Cloud+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Cloud+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Cloud+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Server",
+            "displayText": "Azure Server",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Server&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Server",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Server&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Apim",
+            "displayText": "Azure Apim",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Apim&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Apim",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Apim&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Face API",
+            "displayText": "Azure Face API",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Face+API&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Face+API",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Face+API&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Security Center",
+            "displayText": "Azure Security Center",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Security+Center&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Security+Center",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Security+Center&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Microsoft Azure Logo Transparent",
+            "displayText": "Microsoft Azure Logo Transparent",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Microsoft+Azure+Logo+Transparent&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Microsoft+Azure+Logo+Transparent",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Microsoft+Azure+Logo+Transparent&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure App Service Architecture Diagram",
+            "displayText": "Azure App Service Architecture Diagram",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+App+Service+Architecture+Diagram&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+App+Service+Architecture+Diagram",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+App+Service+Architecture+Diagram&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure HDInsight",
+            "displayText": "Azure HDInsight",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+HDInsight&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+HDInsight",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+HDInsight&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Service Bus",
+            "displayText": "Azure Service Bus",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Service+Bus&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Service+Bus",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Service+Bus&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Personalizer",
+            "displayText": "Azure Personalizer",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Personalizer&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Personalizer",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Personalizer&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Web API Icon",
+            "displayText": "Azure Web API Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Web+API+Icon&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Web+API+Icon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Web+API+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Database",
+            "displayText": "Azure Database",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Database&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Database",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Database&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Services Cheat Sheet",
+            "displayText": "Azure Services Cheat Sheet",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Services+Cheat+Sheet&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Services+Cheat+Sheet",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Services+Cheat+Sheet&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure AD",
+            "displayText": "Azure AD",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+AD&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+AD",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+AD&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Service Bus Queue",
+            "displayText": "Azure Service Bus Queue",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Service+Bus+Queue&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Service+Bus+Queue",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Service+Bus+Queue&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Iot Edge",
+            "displayText": "Azure Iot Edge",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Iot+Edge&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Iot+Edge",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Iot+Edge&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Platform",
+            "displayText": "Azure Platform",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Platform&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Platform",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Platform&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure API Management",
+            "displayText": "Azure API Management",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+API+Management&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+API+Management",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+API+Management&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure SignalR Service",
+            "displayText": "Azure SignalR Service",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+SignalR+Service&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+SignalR+Service",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+SignalR+Service&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Logic App Icon",
+            "displayText": "Azure Logic App Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Logic+App+Icon&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Logic+App+Icon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Logic+App+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Web App Service",
+            "displayText": "Azure Web App Service",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Web+App+Service&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Web+App+Service",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Web+App+Service&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Virtual Network",
+            "displayText": "Azure Virtual Network",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Virtual+Network&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Virtual+Network",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Virtual+Network&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Bot Framework",
+            "displayText": "Azure Bot Framework",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Bot+Framework&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Bot+Framework",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Bot+Framework&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Data Lake Architecture",
+            "displayText": "Azure Data Lake Architecture",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Data+Lake+Architecture&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Data+Lake+Architecture",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Data+Lake+Architecture&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Serverless Architecture",
+            "displayText": "Azure Serverless Architecture",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Serverless+Architecture&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Serverless+Architecture",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Azure+Serverless+Architecture&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Google Cognitive Services",
+            "displayText": "Google Cognitive Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Google+Cognitive+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Google+Cognitive+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Google+Cognitive+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure API Management Icon",
+            "displayText": "Azure API Management Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+API+Management+Icon&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+API+Management+Icon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+API+Management+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Databricks",
+            "displayText": "Azure Databricks",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Databricks&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Databricks",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Databricks&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Account",
+            "displayText": "Azure Account",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Account&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Account",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Azure+Account&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure QnA Maker",
+            "displayText": "Azure QnA Maker",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+QnA+Maker&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+QnA+Maker",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+QnA+Maker&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Data Factory",
+            "displayText": "Azure Data Factory",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Data+Factory&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Data+Factory",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Azure+Data+Factory&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Information Protection Icon",
+            "displayText": "Azure Information Protection Icon",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Information+Protection+Icon&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Information+Protection+Icon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Information+Protection+Icon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Azure Media Services",
+            "displayText": "Azure Media Services",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Azure+Media+Services&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Azure+Media+Services",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Azure+Media+Services&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        }
+    ]
+}
